@@ -1,0 +1,16 @@
+{
+  "name": "first-webpack",
+  "version": "1.0.0",
+  "description": "our first webpack project ... maybe",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "2.6.1"
+  },
+  "scripts": {
+    "dev": "webpack -d --watch",
+    "prod": "webpack -p"
+  },
+  "author": "",
+  "license": "ISC"
+}
